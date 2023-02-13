@@ -1,0 +1,647 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+.start {
+    height: 150px;
+    background-color: rgb(180, 64, 103);
+    display: flex;
+    width: 100%;
+}  
+
+.getfix {
+    width: 30%;
+    height: 150px;
+}
+
+.danarcheni {
+    height: 150px;
+    width: 70%;
+}
+
+.ricxvebi {
+    height: 20px;
+    margin-top: 10px;
+} 
+.com {
+    float: right;
+    margin-right: 60px;
+    font-weight: bold;
+}
+.Phone{
+    float: right;
+    margin-right: 50px;
+}
+.email {
+    float: right;
+}
+.ravici {
+    float: right;
+}
+.ver {
+    height: 15px;
+    justify-content:space-evenly;
+    display: flex;
+    font-size: 18px;
+    margin-top: 15px;
+    color: whitesmoke;
+    margin-left: -67px;
+}
+.regist {
+    font-weight: bold;
+    color: black;
+    font-family:fantasy;
+}
+.davarkvi {
+    height: 40px;
+}
+
+.ra {
+    height: 50px;
+    display: flex;
+    margin-top: 23px;
+    justify-content: space-evenly;
+    font-size: 15px;
+    margin-left: -215px;
+    color: whitesmoke;
+    width: 40%;
+    margin-left: -43px;
+
+}
+.au {
+    margin-left: 230px;
+    margin-top: 15px;
+}
+.Get{
+    font-size:50px;
+    float: left;
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.Fixed{
+    font-size: 50px;
+    float: left;
+    margin-left: 15px;
+    font-weight: bold;
+    font-family:sans-serif;
+}
+.service{
+    font-size: 17px;
+    margin-top: 55px;
+    font-weight: bold;
+    float: left;
+    margin-left: -115px;
+}
+.near {
+    margin-top: 90px;
+    margin-left: 279px;
+    font-size: 16px;
+}
+.surati{
+    width: 25px;
+    float: left;
+    margin-left: -35px;
+    margin-top: 25px;
+}
+.input1 {
+    height: 29px;
+    width: 555px;
+    border: 2px solid red;
+    border-radius: 5px;
+    margin-top: 23px;
+    font-weight: bold;
+}
+.button1 {
+    height: 28px;
+    width: 125px;
+    margin-left: 20px;
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: pink;
+    cursor: pointer;
+}
+.meorestart {
+    background-color: pink;
+    height: 40px;
+}
+.bevri {
+    display: flex;
+    justify-content: space-between;
+    color: rgb(158, 10, 10);
+    float: left;
+    width: 80%;
+    padding-left: 150px;
+    margin: 8px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.mesamestart {
+    height: 530px;
+    background-color:palevioletred;
+    display: flex;
+    width: 100%;
+}
+.we {
+    font-size: 30px;
+    margin-left: 260px;
+    margin-top: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+    font-weight: 500;
+}
+.tence {
+    margin-top: 20px;
+    font-size: 25px;
+    color: whitesmoke;
+    font-style: oblique;
+    font-weight: 200;
+}
+.button2{
+    height: 50px;
+    width: 180px;
+    margin-left: 250px;
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: pink;
+    margin-top: 30px;
+    cursor:pointer;
+}
+.paint {
+    background-color:pink;
+    width: 450px;
+    height: 300px;
+    border: 5px;
+    border-radius: 50%;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.chawe {
+    font-size: 60px;
+    margin-left: 110px;
+    margin-top: 70px;
+    font-weight: 100;
+    color:rgb(218, 65, 113);
+    font-weight: bold;
+}
+.off{
+    margin-left: 100px;
+    margin-top: -10px;
+    color:rgb(162, 13, 67);
+}
+.meotxe {
+    width: 100%;
+    height: 700px;
+    background-color: rgb(234, 134, 151);
+}
+.cont {
+    width: 1025px;
+    height: 124px;
+    border-radius: 400px;
+    background-color: pink;
+    margin: auto;
+    bottom: 62px;
+    position: relative;
+    border: 1px solid red;
+    display: flex;
+}
+.texts {
+    font-weight: 400;
+    color: rgb(108, 4, 4);;
+    margin-top: 10px;
+    margin-left: 350px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}.icon1{
+    width: 40px;
+    margin-left: -230px;
+    float: left;
+    margin-top: 15px;
+}
+.plug {
+    width: 40px;
+    margin-left: -110px;
+    float: left;
+    margin-top: 15px;
+}
+.appl {
+    width: 40px;
+    margin-left: 20px;
+    float: left;
+    margin-top: 15px;
+}
+.plumb {
+    width: 40px;
+    margin-left: 100px;
+    float: left;
+    margin-top: 15px;
+}
+.rep {
+    width: 40px;
+    margin-left: 100px;
+    float: left;
+    margin-top: 15px;
+}
+.plumbmeo {
+    width: 40px;
+    margin-left: 100px;
+    float: left;
+    margin-top: 15px;
+}
+.repmeore {
+    width: 40px;
+    margin-left: 80px;
+    float: left;
+    margin-top: 15px;
+}
+.kai {
+    font-size: 15px;
+    float: left;
+    margin-left: -840px;
+    margin-top: 60px;
+}
+.kai1{
+    font-size: 15px;
+    float: left;
+    margin-left: -730px;
+    margin-top: 60px;
+}
+.kai2{
+    font-size: 15px;
+    float: left;
+    margin-left: -595px;
+    margin-top: 60px;
+}
+.kai3{
+    font-size: 15px;
+    float: left;
+    margin-left: -450px;
+    margin-top: 60px;
+}
+.kai4{
+    font-size: 15px;
+    float: left;
+    margin-left: -310px;
+    margin-top: 60px;
+}
+.kai5{
+    font-size: 15px;
+    float: left;
+    margin-left: -170px;
+    margin-top: 60px;
+}
+.kai6{
+    font-size: 15px;
+    float: left;
+    margin-left: -65px;
+    margin-top: 60px;
+}
+.littletxt{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 200px;
+    margin-top: 80px;
+    font-style: italic;
+}
+.anothertxt {
+    margin-left: 200px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.bath {
+    width: 380px;
+    margin-left: 200px;
+    margin-top: 80px;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+.sofa {
+    width: 390px;
+    border: 2px solid red;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+.kitchen {
+    width: 320px;
+    margin-left: 40px;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+.litl {
+    margin-left: 300px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.litl1 {
+    margin-left: 300px;
+    margin-top: 10px;
+    color: wheat;
+    font-weight: bold;
+}
+.litl2 {
+    margin-left: 750px;
+    font-size: 25px;
+    margin-top: -55px;
+    font-weight: bold;
+}
+.litl3 {
+    margin-left: 750px;
+    margin-top: 5px;
+    color: wheat;
+    font-weight: bold;
+}
+.litl4 {
+    margin-left: 1140px;
+    margin-top: -50px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.litl5 {
+    margin-left: 1140px;
+    margin-top: 5px;
+    color: wheat;
+    font-weight: bold;
+}
+.mexute {
+    width: 100%;
+    height: 650px;
+    background-color:pink;
+    display: flex;
+}
+.CL {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 630px;
+    margin-top: 50px;
+    font-size: 30px;
+    float: left;
+    font-weight: bold;
+}
+.ser {
+    color: rgb(108, 4, 4);
+    margin-left: 20px;
+    margin-top: 50px;
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cont2 {
+    float: right;
+    padding-top: 80px;
+}
+.residental {
+    width: 20%;
+    margin-left: 50px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+.office {
+    width: 22%;
+    margin-left: 47px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+.commercial {
+    width: 19%;
+    margin-left: 55px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+.seasonal {
+    width: 19%;
+    margin-left: 70px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+.textsfor {
+    float: left;
+    margin-top: -240px;
+    font-weight: bold;
+    color: rgb(104, 7, 7);
+}
+.resi {
+    font-size: 20px;
+    margin-left: 150px;
+}
+.offc {
+    font-size: 20px;
+    margin-left: 540px;
+    margin-top: -20px;
+}
+.Co {
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top: -20px;
+}
+.se {
+    font-size: 20px;
+    margin-left: 1300px;
+    margin-top: -30px;
+}
+.textsfor3 {
+    float: left;
+    padding-top: 10px;
+    font-family:sans-serif;
+}
+.firstone {
+    width: 300px;
+    margin-left: 60px;
+    font-size: 15px;
+}
+.secondone {
+    width: 300px;
+    margin-left: 810px;
+    margin-top: -140px;
+    font-size: 15px;
+    
+}
+.thirdone {
+    width: 300px;
+    margin-left: 430px;
+    margin-top: -125px;
+    font-size: 15px;
+}
+.justfour {
+    width: 300px;
+    margin-left: 1180px;
+    margin-top: -128px;
+    font-size: 15px;
+}
+.meekvse {
+    background-color:rgb(233, 98, 121);
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.register {
+    background-color:rgb(186, 100, 129);
+    width: 170%;
+    height: 400px
+}
+.withus {
+    font-size: 30px;
+    float: left;
+    margin-left: 180px;
+    margin-top: 130px;
+    color: rgb(152, 54, 16);
+}
+.moretxt {
+    width: 200px;
+    margin-left: 180px;
+    margin-top: -120px;
+}
+.registertpic {
+    width: 200px;
+    margin-top: 100px;
+    margin-right: -150px;
+}
+.calke {
+    font-size: 35px;
+    float: left;
+    margin-top: 80px;
+    margin-left: 660px;
+    font-style: oblique;
+    color: rgb(162, 13, 67);
+    font-weight: bold;
+}
+.coronaaa {
+    width: 150px;
+    float: right;
+    margin-right: -500px;
+    margin-top: 100px;
+}
+.covid {
+    float: right;
+    margin-right: -700px;
+    margin-top: 135px;
+    font-size: 30px;
+    color: rgb(124, 10, 124);
+}
+.covidistxt {
+    float: right;
+    margin-right: -935px;
+    margin-top: 180px;
+    font-size: 15px;
+    width: 400px;
+}
+.meshvide {
+    background-color: pink;
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.why {
+    font-size: 35px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 600px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(162, 13, 67);
+    font-weight: bold;
+}
+.circle {
+    background-color: rgb(180, 64, 103);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.circle1 {
+    background-color: rgb(180, 64, 103);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-left: 350px;
+
+}   
+.circle3 {
+    background-color: rgb(180, 64, 103);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-left: 300px;
+}
+.contain {
+    display: flex;
+    flex-direction:row;
+    margin-top: 150px;
+    margin-left: -700px;
+}
+.pick {
+    margin-top: 180px;
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.pick1 {
+    width: 300px;
+    margin-left: -50px;
+    margin-top: 10px;
+}
+.book {
+    margin-top: 180px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: -1px;
+}
+.book1 {
+    width: 300px;
+    margin-top: 10px;
+    margin-left: -100px;
+}
+.safe {
+    margin-top: 180px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.safe1 {
+    width: 300px;
+    margin-top: 10px;
+    margin-left: -50px;
+}
+.meramdene {
+    display: flex;
+    width: 100%;
+    height: 600px;
+    background-color: pink;
+}
+.right-color {
+    background-color: rgb(255, 174, 188);
+    flex: 1;
+}
+.manageyour {
+    width: 250px;
+    margin-top: 150px;
+    font-size: 30px;
+    margin-left: 150px;
+    font-family:'Courier New', Courier, monospace;
+}
+.apps {
+    width: 150px;
+    margin-left: 170px;
+    margin-top: -70px;
+}
+.want {
+    width: 130px;
+    margin-left: 600px;
+    font-size: 25px;
+    margin-top: -100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.btn {
+    padding: 10px;
+    background-color: rgb(193, 93, 110);
+    color: wheat;
+    border-radius: 5px;
+    border: 10px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: rgb(164, 26, 72);
+}
+
